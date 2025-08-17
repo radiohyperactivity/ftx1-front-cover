@@ -1,8 +1,10 @@
 # FTX-1 Front Cover
 
-This is the companion repository the the YouTube video showing the build of the protective front cover of the Yaesu FTX-1 (Field and Optima).
+This is the companion repository the the YouTube video showing the build of the protective front cover of the Yaesu FTX-1 Field
 
-TODO: Build video thumb and link
+**Video will be published 2025-08-22 16:00 UTC**
+
+[![](ftx-1-protective-cover.png)](https://youtu.be/JYeVUW09L0U)
 
 ## FreeCAD source file (if you want to make chanegs)
 
