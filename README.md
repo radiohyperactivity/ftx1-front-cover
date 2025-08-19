@@ -1,6 +1,6 @@
 # FTX-1 Front Cover
 
-This is the companion repository the the YouTube video showing the build of the protective front cover of the Yaesu FTX-1 Field
+This is the companion repository for the YouTube video showing the build of the protective front cover of the Yaesu FTX-1 Field
 
 **Video will be published 2025-08-22 16:00 UTC**
 
