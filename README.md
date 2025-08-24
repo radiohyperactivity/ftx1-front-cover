@@ -2,8 +2,6 @@
 
 This is the companion repository for the YouTube video showing the build of the protective front cover of the Yaesu FTX-1 Field
 
-**Video will be published 2025-08-22 16:00 UTC**
-
 [![](ftx-1-protective-cover.png)](https://youtu.be/JYeVUW09L0U)
 
 ## Polyethylene Foam (PE Foam) Template; A4
@@ -54,7 +52,7 @@ This is the companion repository for the YouTube video showing the build of the 
 
 - [STL: foam-template-5mm.stl](<foam-template-5mm.stl>)
 
-## FreeCAD source file (if you want to make chanegs)
+## FreeCAD source file (if you want to make changes)
 
 - [ftx-1-front-cover.fcstd](<ftx-1-front-cover.fcstd>)
 
